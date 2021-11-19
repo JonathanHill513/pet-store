@@ -13,7 +13,7 @@ html{
 body{
     /*font-family: 'Architects Daughter', cursive !important;*/
     /* font-family: 'Gluten', cursive !important; */
-    background-image: url("/bgtile.png");
+    background-image: url("./bgtile.png");
     background-position:center;
     background-size: 50px;
 }
