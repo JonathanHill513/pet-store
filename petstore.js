@@ -2,7 +2,7 @@ var shop = [
  
     {
         title: 'Benny',
-        image: './imgs/jamie-street-MoDcnVRN5JU-unsplash.jpg',
+        image: './jamie-street-MoDcnVRN5JU-unsplash.jpg',
         price: '$70',
         species: 'Dog',
         description: 'Loves: Bones <br> Hates: Mail men',
@@ -10,14 +10,14 @@ var shop = [
     },
     {
         title: 'Frank',
-        image: './imgs/craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
+        image: './craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
         price: '$100',
         species: 'Turtle',
         description: 'Loves: Leafs <br> Hates: Plastic',
         location: 'West Chester'
     },
     {  title: 'James',
-        image: './imgs/james-wainscoat-yEW23jxVsNI-unsplash.jpg',
+        image: './james-wainscoat-yEW23jxVsNI-unsplash.jpg',
         price: '$25',
         species: 'Chicken',
         description: 'Loves: Seeds <br> Hates: KFC',
@@ -25,7 +25,7 @@ var shop = [
     },
     {
         title: 'Benny',
-        image: './imgs/jamie-street-MoDcnVRN5JU-unsplash.jpg',
+        image: './jamie-street-MoDcnVRN5JU-unsplash.jpg',
         price: '$70',
         species: 'Dog',
         description: 'Loves: Bones <br> Hates: Mail men',
@@ -33,14 +33,14 @@ var shop = [
     },
     {
         title: 'Frank',
-        image: './imgs/craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
+        image: './craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
         price: '$100',
         species: 'Turtle',
         description: 'Loves: Leafs <br> Hates: Plastic',
         location: 'West Chester'
     },
     {  title: 'James',
-        image: './imgs/james-wainscoat-yEW23jxVsNI-unsplash.jpg',
+        image: './james-wainscoat-yEW23jxVsNI-unsplash.jpg',
         price: '$25',
         species: 'Chicken',
         description: 'Loves: Seeds <br> Hates: KFC',
@@ -48,7 +48,7 @@ var shop = [
     },
     {
         title: 'Benny',
-        image: './imgs/jamie-street-MoDcnVRN5JU-unsplash.jpg',
+        image: './jamie-street-MoDcnVRN5JU-unsplash.jpg',
         price: '$70',
         species: 'Dog',
         description: 'Loves: Bones <br> Hates: Mail men',
@@ -56,14 +56,14 @@ var shop = [
     },
     {
         title: 'Frank',
-        image: './imgs/craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
+        image: './craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
         price: '$100',
         species: 'Turtle',
         description: 'Loves: Leafs <br> Hates: Plastic',
         location: 'West Chester'
     },
     {  title: 'James',
-        image: './imgs/james-wainscoat-yEW23jxVsNI-unsplash.jpg',
+        image: './james-wainscoat-yEW23jxVsNI-unsplash.jpg',
         price: '$25',
         species: 'Chicken',
         description: 'Loves: Seeds <br> Hates: KFC',
@@ -71,7 +71,7 @@ var shop = [
     },
     {
         title: 'Benny',
-        image: './imgs/jamie-street-MoDcnVRN5JU-unsplash.jpg',
+        image: './jamie-street-MoDcnVRN5JU-unsplash.jpg',
         price: '$70',
         species: 'Dog',
         description: 'Loves: Bones <br> Hates: Mail men',
@@ -79,14 +79,14 @@ var shop = [
     },
     {
         title: 'Frank',
-        image: './imgs/craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
+        image: './craig-pattenaude-o5LcQ9GkT6A-unsplash.jpg',
         price: '$100',
         species: 'Turtle',
         description: 'Loves: Leafs <br> Hates: Plastic',
         location: 'West Chester'
     },
     {  title: 'James',
-        image: './imgs/james-wainscoat-yEW23jxVsNI-unsplash.jpg',
+        image: './james-wainscoat-yEW23jxVsNI-unsplash.jpg',
         price: '$25',
         species: 'Chicken',
         description: 'Loves: Seeds <br> Hates: KFC',
