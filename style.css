@@ -80,21 +80,21 @@ padding: 20px 20px !important;
     padding:0px 10px;
 }
 
-/* The side navigation menu */
+
 .sidenav {
-    height: 100%; /* 100% Full-height */
-    width: 0; /* 0 width - change this with JavaScript */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Stay on top */
-    top: 0; /* Stay at the top */
+    height: 100%; 
+    width: 0; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
     right: 0;
-    background-color:var(--c5); /* Black*/
+    background-color:var(--c5); 
     overflow-x: hidden; 
     padding-top: 60px; 
     transition: 0.5s;
   }
   
-  /* The navigation menu links */
+
   .sidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
@@ -103,7 +103,7 @@ padding: 20px 20px !important;
     display: block;
     transition: 0.3s;
   }
-  /* When you mouse over the navigation links, change their color */
+
   .sidenav .sidenavwords a:hover {
     color:var(--c6);
     background:var(--c7)
@@ -112,7 +112,7 @@ padding: 20px 20px !important;
     color:var(--c6);
 }
   
-  /* Position and style the close button (top right corner) */
+
   .sidenav .closebtn {
     position: absolute;
     top: 0;
@@ -121,13 +121,13 @@ padding: 20px 20px !important;
     margin-left: 50px;
   }
   
-  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+
   #main {
     transition: margin-left .5s;
     padding: 20px;
   }
   
-  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+
   @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
@@ -178,7 +178,6 @@ button{
 }
 .box-container{
     border: var(--c3) solid 1px;
-    /* background:red; */
 width:100%;
     margin:0px 10px;
     padding:5px;
@@ -475,8 +474,7 @@ background:var(--c2);
     width:100%;
 }
 #market{
-    /* display: table-column !important; */
-    /* display:flex; */
+
 }
 .formfields{
     padding:20px;
